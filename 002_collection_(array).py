@@ -41,7 +41,7 @@
 
 """
   SET
-  Set is a collection which is used to store unordered, unchangeable and unindex also duplicate will be ignore (no duplicate member), you can loop over a set. Below is an example set of countries
+  Set is a collection which is used to store unordered, unchangeable and unindex also duplicate will be ignore (no duplicate member), you can loop over a set. Below is an example set of countries.
     countries = {"Iran", "Nigeria", "South Africa", "India", "Ghana", "Canada"}
 """
 
