@@ -66,6 +66,7 @@ print(a + " " + b)
       I am line three of the multi-line comment
       I am line four of the multi-line comment
     '''
+    # output: There is multi-line comment below me! you can not see it on terminal
 """
 
 
@@ -97,8 +98,11 @@ b = "8"
 c = 8.0
 
 print(type(a))
+# output: <class 'int'>
 print(type(b))
+# output: <class 'str'>
 print(type(c))
+# output: <class 'float'>
 
 """
   To break down the aboove code. The variable "a" which hold a data type of integer, and integer are number(s) which has no decimal. The variable "b" which hold a data type of string because it is in double qoute, it behave just like an alphabet. The variable "c" which hold a data type of float, and float is a number which is in decimal place, even if the decimal place is zero. By most people (beginners) they will take them all as one which is not true in python.
